@@ -1,0 +1,4 @@
+[submodule "specfem2d"]
+	path = specfem2d
+	url = https://github.com/geodynamics/specfem2d.git
+	branch = devel
